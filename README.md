@@ -1,4 +1,4 @@
- Ayelen Lotero, programadora web junior. 
+ Ayelen Lotero, programadora web junior. <br/>
  Empece a estudiar desarrollo web hace 2 años en la UTN(universidad tecnologica de Bs As), comence realizando el curso de DESARROLLO WEB INTEGRAL y desde ese momento no he   dejado de aprender realizando cursos de manera presencial y online.
  Durante este tiempo he aprendido:
  HTML
